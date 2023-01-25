@@ -1,4 +1,10 @@
 # countdown-sim
+
+![GitHub](https://img.shields.io/github/license/ARundle01/countdown-sim)
+![GitHub repo size](https://img.shields.io/github/repo-size/ARundle01/countdown-sim)
+![GitHub top language](https://img.shields.io/github/languages/top/ARundle01/countdown-sim)
+![GitHub language count](https://img.shields.io/github/languages/count/ARundle01/countdown-sim)
+
 A simulation of the game Countdown.
 
 ## What is this Project?
